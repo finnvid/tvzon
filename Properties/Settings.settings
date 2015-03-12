@@ -1,0 +1,277 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Tvzon.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Channels" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;svt1.svt.se&lt;/string&gt;
+  &lt;string&gt;svt1hd.svt.se&lt;/string&gt;
+  &lt;string&gt;svt2.svt.se&lt;/string&gt;
+  &lt;string&gt;svt2hd.svt.se&lt;/string&gt;
+  &lt;string&gt;tv3.se&lt;/string&gt;
+  &lt;string&gt;hd.tv3.se&lt;/string&gt;
+  &lt;string&gt;tv4.se&lt;/string&gt;
+  &lt;string&gt;hd.tv4.se&lt;/string&gt;
+  &lt;string&gt;fakta.tv4.se&lt;/string&gt;
+  &lt;string&gt;film.tv4.se&lt;/string&gt;
+  &lt;string&gt;sport.tv4.se&lt;/string&gt;
+  &lt;string&gt;tv12.tv4.se&lt;/string&gt;
+  &lt;string&gt;kanal5.se&lt;/string&gt;
+  &lt;string&gt;hd.kanal5.se&lt;/string&gt;
+  &lt;string&gt;tv6.se&lt;/string&gt;
+  &lt;string&gt;tnt-tv.se&lt;/string&gt;
+  &lt;string&gt;sjuan.se&lt;/string&gt;
+  &lt;string&gt;tv11.sbstv.se&lt;/string&gt;
+  &lt;string&gt;tv8.se&lt;/string&gt;
+  &lt;string&gt;kanal9.se&lt;/string&gt;
+  &lt;string&gt;tv10.se&lt;/string&gt;
+  &lt;string&gt;axess.se&lt;/string&gt;
+  &lt;string&gt;showtime.nonstop.tv&lt;/string&gt;
+  &lt;string&gt;silver.nonstop.tv&lt;/string&gt;
+  &lt;string&gt;tcmeurope.com&lt;/string&gt;
+  &lt;string&gt;eurosport.se&lt;/string&gt;
+  &lt;string&gt;eurosport2.se&lt;/string&gt;
+  &lt;string&gt;kanalglobal.se&lt;/string&gt;
+  &lt;string&gt;animalplanet.se&lt;/string&gt;
+  &lt;string&gt;discoverychannel.se&lt;/string&gt;
+  &lt;string&gt;science.discoverychannel.com&lt;/string&gt;
+  &lt;string&gt;tlcsverige.se&lt;/string&gt;
+  &lt;string&gt;hd.natgeo.se&lt;/string&gt;
+  &lt;string&gt;cartoonnetwork.se&lt;/string&gt;
+  &lt;string&gt;disneychannel.se&lt;/string&gt;
+  &lt;string&gt;xd.disneychannel.se&lt;/string&gt;
+  &lt;string&gt;bbcworldnews.com&lt;/string&gt;
+  &lt;string&gt;nickelodeon.se&lt;/string&gt;
+  &lt;string&gt;comedycentral.tv&lt;/string&gt;
+  &lt;string&gt;mtv.se&lt;/string&gt;
+  &lt;string&gt;hd.mtv.se&lt;/string&gt;
+  &lt;string&gt;star.nonstop.tv&lt;/string&gt;
+  &lt;string&gt;vh1.se&lt;/string&gt;
+  &lt;string&gt;cnn.com&lt;/string&gt;
+  &lt;string&gt;kunskapskanalen.svt.se&lt;/string&gt;
+  &lt;string&gt;svtb-svt24.svt.se&lt;/string&gt;
+  &lt;string&gt;travelchanneltv.se&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="OutputPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\ProgramData\DVBLogic\DVBLink\xmltv\tvzon.xml</Value>
+    </Setting>
+    <Setting Name="Days" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">14</Value>
+    </Setting>
+    <Setting Name="ImageCache" Type="SerializableStringDictionary" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DaysInHistory" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">14</Value>
+    </Setting>
+    <Setting Name="WriteToLog" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PreviousShownDuration" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="InsertEpisodeInDesc" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="apiKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">131f05d10244f672e5321d9755724c66</Value>
+    </Setting>
+    <Setting Name="TvNuMappings" Type="SerializableStringDictionary" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableStringDictionary&gt;
+  &lt;ArrayOfAnyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;tnt-tv.se&lt;/key&gt;
+      &lt;val&gt;tv7&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;kanal5.se&lt;/key&gt;
+      &lt;val&gt;kanal5&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;star.nonstop.tv&lt;/key&gt;
+      &lt;val&gt;star!&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;kunskapskanalen.svt.se&lt;/key&gt;
+      &lt;val&gt;kunskapskanalen&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;kanalglobal.se&lt;/key&gt;
+      &lt;val&gt;kanalglobal&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;silver.nonstop.tv&lt;/key&gt;
+      &lt;val&gt;silver&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;svtb-svt24.svt.se&lt;/key&gt;
+      &lt;val&gt;barnkanalen&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;nickelodeon.se&lt;/key&gt;
+      &lt;val&gt;nickelodeon&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;disneychannel.se&lt;/key&gt;
+      &lt;val&gt;disneychannel&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;news.tv4.se&lt;/key&gt;
+      &lt;val&gt;tv4news&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;kanal9.se&lt;/key&gt;
+      &lt;val&gt;kanal9&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;tv10.se&lt;/key&gt;
+      &lt;val&gt;tv10&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;showtime.nonstop.tv&lt;/key&gt;
+      &lt;val&gt;showtime&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;tv8.se&lt;/key&gt;
+      &lt;val&gt;tv8&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;film.tv4.se&lt;/key&gt;
+      &lt;val&gt;tv4film&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;cartoonnetwork.se&lt;/key&gt;
+      &lt;val&gt;cartoonnetwork&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;hd.mtv.se&lt;/key&gt;
+      &lt;val&gt;mtvn-hd&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;sjuan.se&lt;/key&gt;
+      &lt;val&gt;sjuan&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;hd.tv4.se&lt;/key&gt;
+      &lt;val&gt;tv4hd&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;tv11.tv4.se&lt;/key&gt;
+      &lt;val&gt;tv11&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;svt1hd.svt.se&lt;/key&gt;
+      &lt;val&gt;svt1hd&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;science.discoverychannel.com&lt;/key&gt;
+      &lt;val&gt;discoveryscience&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;xd.disneychannel.se&lt;/key&gt;
+      &lt;val&gt;disneyxd&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;animalplanet.se&lt;/key&gt;
+      &lt;val&gt;animalplanet&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;discoverychannel.se&lt;/key&gt;
+      &lt;val&gt;discovery&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;travelchanneltv.se&lt;/key&gt;
+      &lt;val&gt;travel&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;tcmeurope.com&lt;/key&gt;
+      &lt;val&gt;tcm&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;bbcworldnews.com&lt;/key&gt;
+      &lt;val&gt;bbcworld&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;mtv.se&lt;/key&gt;
+      &lt;val&gt;mtv&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;sport.tv4.se&lt;/key&gt;
+      &lt;val&gt;tv4sport&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;axess.se&lt;/key&gt;
+      &lt;val&gt;axesstv&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;eurosport2.se&lt;/key&gt;
+      &lt;val&gt;eurosport2&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;cnn.com&lt;/key&gt;
+      &lt;val&gt;cnn&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;hd.tv3.se&lt;/key&gt;
+      &lt;val&gt;tv3hd&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;eurosport.se&lt;/key&gt;
+      &lt;val&gt;eurosport&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;hd.kanal5.se&lt;/key&gt;
+      &lt;val&gt;kanal5hd&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;hd.natgeo.se&lt;/key&gt;
+      &lt;val&gt;nationalgeographichd&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;svt2.svt.se&lt;/key&gt;
+      &lt;val&gt;svt2&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;svt2hd.svt.se&lt;/key&gt;
+      &lt;val&gt;svt2hd&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;tlcsverige.se&lt;/key&gt;
+      &lt;val&gt;tlc&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;tv3.se&lt;/key&gt;
+      &lt;val&gt;tv3&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;tv4.se&lt;/key&gt;
+      &lt;val&gt;tv4&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;svt1.svt.se&lt;/key&gt;
+      &lt;val&gt;svt1&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;fakta.tv4.se&lt;/key&gt;
+      &lt;val&gt;tv4fakta&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;comedycentral.tv&lt;/key&gt;
+      &lt;val&gt;comedycentral&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;tv6.se&lt;/key&gt;
+      &lt;val&gt;tv6&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;vh1.se&lt;/key&gt;
+      &lt;val&gt;vh1&lt;/val&gt;
+    &lt;/anyType&gt;
+  &lt;/ArrayOfAnyType&gt;
+&lt;/SerializableStringDictionary&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
