@@ -120,13 +120,25 @@ namespace Tvzon.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("131f05d10244f672e5321d9755724c66")]
+        [global::System.Configuration.DefaultSettingValueAttribute("xxxxxxxx")]
         public string apiKey {
             get {
                 return ((string)(this["apiKey"]));
             }
             set {
                 this["apiKey"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("xxxxxxxxxx")]
+        public string apiSecret {
+            get {
+                return ((string)(this["apiSecret"]));
+            }
+            set {
+                this["apiSecret"] = value;
             }
         }
         
@@ -145,56 +157,56 @@ namespace Tvzon.Properties {
             "al>silver</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>svtb-" +
             "svt24.svt.se</key>\r\n      <val>barnkanalen</val>\r\n    </anyType>\r\n    <anyType x" +
             "si:type=\"Node\">\r\n      <key>nickelodeon.se</key>\r\n      <val>nickelodeon</val>\r\n" +
-            "    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>disneychannel.se</key>" +
-            "\r\n      <val>disneychannel</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r" +
-            "\n      <key>news.tv4.se</key>\r\n      <val>tv4news</val>\r\n    </anyType>\r\n    <an" +
-            "yType xsi:type=\"Node\">\r\n      <key>kanal9.se</key>\r\n      <val>kanal9</val>\r\n   " +
-            " </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>tv10.se</key>\r\n      <val" +
-            ">tv10</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>showtime." +
-            "nonstop.tv</key>\r\n      <val>showtime</val>\r\n    </anyType>\r\n    <anyType xsi:ty" +
-            "pe=\"Node\">\r\n      <key>tv8.se</key>\r\n      <val>tv8</val>\r\n    </anyType>\r\n    <" +
-            "anyType xsi:type=\"Node\">\r\n      <key>film.tv4.se</key>\r\n      <val>tv4film</val>" +
-            "\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>cartoonnetwork.se</k" +
-            "ey>\r\n      <val>cartoonnetwork</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Nod" +
-            "e\">\r\n      <key>hd.mtv.se</key>\r\n      <val>mtvn-hd</val>\r\n    </anyType>\r\n    <" +
-            "anyType xsi:type=\"Node\">\r\n      <key>sjuan.se</key>\r\n      <val>sjuan</val>\r\n   " +
-            " </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>hd.tv4.se</key>\r\n      <v" +
-            "al>tv4hd</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>tv11.t" +
-            "v4.se</key>\r\n      <val>tv11</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\"" +
-            ">\r\n      <key>svt1hd.svt.se</key>\r\n      <val>svt1hd</val>\r\n    </anyType>\r\n    " +
-            "<anyType xsi:type=\"Node\">\r\n      <key>science.discoverychannel.com</key>\r\n      " +
-            "<val>discoveryscience</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n    " +
-            "  <key>xd.disneychannel.se</key>\r\n      <val>disneyxd</val>\r\n    </anyType>\r\n   " +
-            " <anyType xsi:type=\"Node\">\r\n      <key>animalplanet.se</key>\r\n      <val>animalp" +
-            "lanet</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>discovery" +
-            "channel.se</key>\r\n      <val>discovery</val>\r\n    </anyType>\r\n    <anyType xsi:t" +
-            "ype=\"Node\">\r\n      <key>travelchanneltv.se</key>\r\n      <val>travel</val>\r\n    <" +
-            "/anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>tcmeurope.com</key>\r\n      " +
-            "<val>tcm</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>bbcwor" +
-            "ldnews.com</key>\r\n      <val>bbcworld</val>\r\n    </anyType>\r\n    <anyType xsi:ty" +
-            "pe=\"Node\">\r\n      <key>mtv.se</key>\r\n      <val>mtv</val>\r\n    </anyType>\r\n    <" +
-            "anyType xsi:type=\"Node\">\r\n      <key>sport.tv4.se</key>\r\n      <val>tv4sport</va" +
-            "l>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>axess.se</key>\r\n  " +
-            "    <val>axesstv</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <ke" +
-            "y>eurosport2.se</key>\r\n      <val>eurosport2</val>\r\n    </anyType>\r\n    <anyType" +
-            " xsi:type=\"Node\">\r\n      <key>cnn.com</key>\r\n      <val>cnn</val>\r\n    </anyType" +
-            ">\r\n    <anyType xsi:type=\"Node\">\r\n      <key>hd.tv3.se</key>\r\n      <val>tv3hd</" +
-            "val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>eurosport.se</ke" +
-            "y>\r\n      <val>eurosport</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n " +
-            "     <key>hd.kanal5.se</key>\r\n      <val>kanal5hd</val>\r\n    </anyType>\r\n    <an" +
-            "yType xsi:type=\"Node\">\r\n      <key>hd.natgeo.se</key>\r\n      <val>nationalgeogra" +
-            "phichd</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>svt2.svt" +
-            ".se</key>\r\n      <val>svt2</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r" +
-            "\n      <key>svt2hd.svt.se</key>\r\n      <val>svt2hd</val>\r\n    </anyType>\r\n    <a" +
-            "nyType xsi:type=\"Node\">\r\n      <key>tlcsverige.se</key>\r\n      <val>tlc</val>\r\n " +
-            "   </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>tv3.se</key>\r\n      <va" +
-            "l>tv3</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>tv4.se</k" +
-            "ey>\r\n      <val>tv4</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      " +
-            "<key>svt1.svt.se</key>\r\n      <val>svt1</val>\r\n    </anyType>\r\n    <anyType xsi:" +
-            "type=\"Node\">\r\n      <key>fakta.tv4.se</key>\r\n      <val>tv4fakta</val>\r\n    </an" +
-            "yType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>comedycentral.tv</key>\r\n      " +
-            "<val>comedycentral</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <" +
-            "key>tv6.se</key>\r\n      <val>tv6</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"N" +
+            "    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>svt1.svt.se</key>\r\n   " +
+            "   <val>svt1</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>di" +
+            "sneychannel.se</key>\r\n      <val>disneychannel</val>\r\n    </anyType>\r\n    <anyTy" +
+            "pe xsi:type=\"Node\">\r\n      <key>kanal9.se</key>\r\n      <val>kanal9</val>\r\n    </" +
+            "anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>tv10.se</key>\r\n      <val>tv" +
+            "10</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>showtime.non" +
+            "stop.tv</key>\r\n      <val>showtime</val>\r\n    </anyType>\r\n    <anyType xsi:type=" +
+            "\"Node\">\r\n      <key>tv6.se</key>\r\n      <val>tv6</val>\r\n    </anyType>\r\n    <any" +
+            "Type xsi:type=\"Node\">\r\n      <key>tv8.se</key>\r\n      <val>tv8</val>\r\n    </anyT" +
+            "ype>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>film.tv4.se</key>\r\n      <val>tv" +
+            "4film</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>cartoonne" +
+            "twork.se</key>\r\n      <val>cartoonnetwork</val>\r\n    </anyType>\r\n    <anyType xs" +
+            "i:type=\"Node\">\r\n      <key>hd.mtv.se</key>\r\n      <val>mtvn-hd</val>\r\n    </anyT" +
+            "ype>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>sjuan.se</key>\r\n      <val>sjuan" +
+            "</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>hd.tv4.se</key" +
+            ">\r\n      <val>tv4hd</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      " +
+            "<key>tv11.tv4.se</key>\r\n      <val>tv11</val>\r\n    </anyType>\r\n    <anyType xsi:" +
+            "type=\"Node\">\r\n      <key>svt1hd.svt.se</key>\r\n      <val>svt1hd</val>\r\n    </any" +
+            "Type>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>science.discoverychannel.com</k" +
+            "ey>\r\n      <val>discoveryscience</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"N" +
+            "ode\">\r\n      <key>xd.disneychannel.se</key>\r\n      <val>disneyxd</val>\r\n    </an" +
+            "yType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>animalplanet.se</key>\r\n      <" +
+            "val>animalplanet</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <ke" +
+            "y>discoverychannel.se</key>\r\n      <val>discovery</val>\r\n    </anyType>\r\n    <an" +
+            "yType xsi:type=\"Node\">\r\n      <key>travelchanneltv.se</key>\r\n      <val>travel</" +
+            "val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>tcmeurope.com</k" +
+            "ey>\r\n      <val>tcm</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      " +
+            "<key>bbcworldnews.com</key>\r\n      <val>bbcworld</val>\r\n    </anyType>\r\n    <any" +
+            "Type xsi:type=\"Node\">\r\n      <key>mtv.se</key>\r\n      <val>mtv</val>\r\n    </anyT" +
+            "ype>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>sport.tv4.se</key>\r\n      <val>t" +
+            "v4sport</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>axess.s" +
+            "e</key>\r\n      <val>axesstv</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">" +
+            "\r\n      <key>eurosport2.se</key>\r\n      <val>eurosport2</val>\r\n    </anyType>\r\n " +
+            "   <anyType xsi:type=\"Node\">\r\n      <key>cnn.com</key>\r\n      <val>cnn</val>\r\n  " +
+            "  </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>hd.tv3.se</key>\r\n      <" +
+            "val>tv3hd</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>euros" +
+            "port.se</key>\r\n      <val>eurosport</val>\r\n    </anyType>\r\n    <anyType xsi:type" +
+            "=\"Node\">\r\n      <key>hd.kanal5.se</key>\r\n      <val>kanal5hd</val>\r\n    </anyTyp" +
+            "e>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>svt2.svt.se</key>\r\n      <val>svt2" +
+            "</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>svt2hd.svt.se<" +
+            "/key>\r\n      <val>svt2hd</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n " +
+            "     <key>tlcsverige.se</key>\r\n      <val>tlc</val>\r\n    </anyType>\r\n    <anyTyp" +
+            "e xsi:type=\"Node\">\r\n      <key>tv3.se</key>\r\n      <val>tv3</val>\r\n    </anyType" +
+            ">\r\n    <anyType xsi:type=\"Node\">\r\n      <key>tv4.se</key>\r\n      <val>tv4</val>\r" +
+            "\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>hd.natgeo.se</key>\r\n " +
+            "     <val>nationalgeographichd</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Nod" +
+            "e\">\r\n      <key>fakta.tv4.se</key>\r\n      <val>tv4fakta</val>\r\n    </anyType>\r\n " +
+            "   <anyType xsi:type=\"Node\">\r\n      <key>comedycentral.tv</key>\r\n      <val>come" +
+            "dycentral</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"Node\">\r\n      <key>news." +
+            "tv4.se</key>\r\n      <val>tv4news</val>\r\n    </anyType>\r\n    <anyType xsi:type=\"N" +
             "ode\">\r\n      <key>vh1.se</key>\r\n      <val>vh1</val>\r\n    </anyType>\r\n  </ArrayO" +
             "fAnyType>\r\n</SerializableStringDictionary>")]
         public global::SerializableStringDictionary TvNuMappings {

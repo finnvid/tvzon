@@ -76,7 +76,10 @@
       <Value Profile="(Default)">True</Value>
     </Setting>
     <Setting Name="apiKey" Type="System.String" Scope="User">
-      <Value Profile="(Default)">131f05d10244f672e5321d9755724c66</Value>
+      <Value Profile="(Default)">xxxxxxxx</Value>
+    </Setting>
+    <Setting Name="apiSecret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xxxxxxxxxx</Value>
     </Setting>
     <Setting Name="TvNuMappings" Type="SerializableStringDictionary" Scope="Application">
       <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
@@ -115,12 +118,12 @@
       &lt;val&gt;nickelodeon&lt;/val&gt;
     &lt;/anyType&gt;
     &lt;anyType xsi:type="Node"&gt;
-      &lt;key&gt;disneychannel.se&lt;/key&gt;
-      &lt;val&gt;disneychannel&lt;/val&gt;
+      &lt;key&gt;svt1.svt.se&lt;/key&gt;
+      &lt;val&gt;svt1&lt;/val&gt;
     &lt;/anyType&gt;
     &lt;anyType xsi:type="Node"&gt;
-      &lt;key&gt;news.tv4.se&lt;/key&gt;
-      &lt;val&gt;tv4news&lt;/val&gt;
+      &lt;key&gt;disneychannel.se&lt;/key&gt;
+      &lt;val&gt;disneychannel&lt;/val&gt;
     &lt;/anyType&gt;
     &lt;anyType xsi:type="Node"&gt;
       &lt;key&gt;kanal9.se&lt;/key&gt;
@@ -133,6 +136,10 @@
     &lt;anyType xsi:type="Node"&gt;
       &lt;key&gt;showtime.nonstop.tv&lt;/key&gt;
       &lt;val&gt;showtime&lt;/val&gt;
+    &lt;/anyType&gt;
+    &lt;anyType xsi:type="Node"&gt;
+      &lt;key&gt;tv6.se&lt;/key&gt;
+      &lt;val&gt;tv6&lt;/val&gt;
     &lt;/anyType&gt;
     &lt;anyType xsi:type="Node"&gt;
       &lt;key&gt;tv8.se&lt;/key&gt;
@@ -227,10 +234,6 @@
       &lt;val&gt;kanal5hd&lt;/val&gt;
     &lt;/anyType&gt;
     &lt;anyType xsi:type="Node"&gt;
-      &lt;key&gt;hd.natgeo.se&lt;/key&gt;
-      &lt;val&gt;nationalgeographichd&lt;/val&gt;
-    &lt;/anyType&gt;
-    &lt;anyType xsi:type="Node"&gt;
       &lt;key&gt;svt2.svt.se&lt;/key&gt;
       &lt;val&gt;svt2&lt;/val&gt;
     &lt;/anyType&gt;
@@ -251,8 +254,8 @@
       &lt;val&gt;tv4&lt;/val&gt;
     &lt;/anyType&gt;
     &lt;anyType xsi:type="Node"&gt;
-      &lt;key&gt;svt1.svt.se&lt;/key&gt;
-      &lt;val&gt;svt1&lt;/val&gt;
+      &lt;key&gt;hd.natgeo.se&lt;/key&gt;
+      &lt;val&gt;nationalgeographichd&lt;/val&gt;
     &lt;/anyType&gt;
     &lt;anyType xsi:type="Node"&gt;
       &lt;key&gt;fakta.tv4.se&lt;/key&gt;
@@ -263,8 +266,8 @@
       &lt;val&gt;comedycentral&lt;/val&gt;
     &lt;/anyType&gt;
     &lt;anyType xsi:type="Node"&gt;
-      &lt;key&gt;tv6.se&lt;/key&gt;
-      &lt;val&gt;tv6&lt;/val&gt;
+      &lt;key&gt;news.tv4.se&lt;/key&gt;
+      &lt;val&gt;tv4news&lt;/val&gt;
     &lt;/anyType&gt;
     &lt;anyType xsi:type="Node"&gt;
       &lt;key&gt;vh1.se&lt;/key&gt;
